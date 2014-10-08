@@ -22,4 +22,11 @@
         <github>zgm92</github>
         <group>KrDzIS3011io</group>
     </student>
+    <student>
+        <firstname>Pavlo</firstname>
+        <lastname>Paskalov</lastname>
+        <email>p.pakalov@wp.pl</email>
+        <github>paskalov</github>
+        <group>KrDzIS3012io</group>
+    </student>
 </students>
